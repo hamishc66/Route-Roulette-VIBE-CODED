@@ -1,0 +1,7 @@
+{
+  "name": "Route Roulette",
+  "description": "A spin-the-wheel app for hiking and walking routes, powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
